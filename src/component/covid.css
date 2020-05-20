@@ -1,0 +1,98 @@
+.contain{
+  font-family:verdana;
+}
+.d1{
+  background-color:white;
+  border-bottom:2px skyblue solid;
+}
+.d1b{
+  font-family:verdana;
+  background-color:white;
+  border-top:2px skyblue solid;
+}
+.d11{
+  background-color:skyblue;
+  width:80px;
+}
+.d12{
+  font-family:'Jokerman';
+}
+.d2{
+  background-color:white;
+  opacity:0.8;
+  padding:10px;
+}
+.d2c{
+  font-family:verdana;
+  text-align:center;
+}
+.h1{
+  text-align:center;
+}
+#num{
+  font-size:50px;
+  font-family:'Griffy';
+  margin-top:10px;
+}
+#hrcontent{
+  border:10px skyblue solid;
+}
+.tb{
+  text-align:center;
+}
+.tbedit{
+  width:980px;
+  position:'relative';
+}
+.add{
+  color:red;
+}
+.footer{
+  margin-left:130px;
+}
+.stopex{
+  margin-right:100px;
+}
+.d2b{
+  font-family:verdana;
+  border-top:2px black solid;
+  border-bottom:2px black solid;
+  background-color:gray;
+}
+.bl{
+  padding:8px;
+  margin-left:80px;
+}
+.news{
+  background-color:skyblue;
+  opacity:0.8;
+  height:300px;
+  width:470px;
+  border:2px black dashed;
+  text-align:center;
+  padding:10px;
+}
+.news2{
+  color:red;
+}
+#ch{
+  text-align:center;
+}
+.dl{
+  display:flex;
+}
+.flag{
+  position:auto;
+  margin-left:300px;
+}
+.flag_head{
+  font-family:verdana;
+  font-size:50px;
+  margin-left:20px;
+}
+.button{
+  width:100%;
+  margin-top:30px;
+  margin-left:7px;
+  color:white;
+}
